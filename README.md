@@ -8,7 +8,7 @@ Any premined or minted Rune represent a fraction (proportionate to the total sup
 
 # Examples
 
-## Etching Inscription
+## New Inscription
 
 [FAP•WIZARDS•FAP](https://ordinals.com/rune/FAP•WIZARDS•FAP) is the first ever Rune created following the _FAP_ convention, fractionalizing [The Wizards of Ord](https://twitter.com/TheWizardsOfOrd) logo into 3,333 tokens.
 
